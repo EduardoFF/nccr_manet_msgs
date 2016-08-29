@@ -1,0 +1,3 @@
+string destination
+string next_hop
+uint16 weight

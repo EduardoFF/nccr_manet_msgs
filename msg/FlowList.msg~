@@ -1,0 +1,5 @@
+uint8     sender_id
+uint8     receiver_id
+float64   rate
+
+
